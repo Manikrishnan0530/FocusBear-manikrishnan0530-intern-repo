@@ -102,13 +102,13 @@ The key is not letting silence stall important work. One polite follow-up is pro
 
 Drawing directly from the supervisor guide, I commit to avoiding:
 
-- ❌ **Ghosting my project** — no updates is not an option, even "still working on it" is better than silence
-- ❌ **Coming to meetings unprepared** — winging it wastes everyone's time, including mine
-- ❌ **Not taking notes** — and definitely not asking the same questions twice because I wasn't paying attention
-- ❌ **Asking questions I could Google in 10 seconds** — I'll do the basic research first and save supervisor time for the harder stuff
-- ❌ **Taking feedback personally or repeating the same mistakes** — if the same feedback keeps coming up, something isn't being heard
-- ❌ **Relying on only one communication channel when things are urgent** — I'll escalate when it matters
-- ❌ **Sending vague calendar invites** — every invite will include the project name and a short agenda
+-  **Ghosting my project** — no updates is not an option, even "still working on it" is better than silence
+-  **Coming to meetings unprepared** — winging it wastes everyone's time, including mine
+-  **Not taking notes** — and definitely not asking the same questions twice because I wasn't paying attention
+-  **Asking questions I could Google in 10 seconds** — I'll do the basic research first and save supervisor time for the harder stuff
+-  **Taking feedback personally or repeating the same mistakes** — if the same feedback keeps coming up, something isn't being heard
+-  **Relying on only one communication channel when things are urgent** — I'll escalate when it matters
+-  **Sending vague calendar invites** — every invite will include the project name and a short agenda
 
 ##  Task
 

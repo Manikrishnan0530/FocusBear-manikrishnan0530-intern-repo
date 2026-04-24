@@ -66,26 +66,46 @@ Going forward, I will **write clearer, jargon-free documentation and code commen
 
 ## Tasks
 
-### First-Person Account: What I Took Away
+### Task 1 — First-Person Account: What I Read and What I Took Away
 
-Reading first-person accounts from people with ADHD and Autism about their experiences with productivity tools, the thing that stood out most to me was how much **consistency and routine in an app helped them feel safe and in control**. It wasn't the most feature-rich tools they loved — it was the ones that behaved predictably, session after session. When an app does what they expect it to do, it removes one more thing their brain has to manage. That's a powerful insight for how we build Focus Bear.
+**Source:** ["When Productivity Techniques Meet AuDHD"](https://autisticfish.medium.com/when-productivity-techniques-meet-audhd-4d4bdfc81791) by *Autistic Fish*, Medium — November 2024
 
-### Design Improvement: Calm Mode
+This blog post is written by someone diagnosed late in life with both Autism and ADHD (AuDHD). Their psychologist recommended the well-known Pomodoro Technique — 25-minute focus blocks followed by 5-minute breaks. The author explains, through lived experience, why it completely failed them.
 
-The one improvement I'd advocate for is a **"Calm Mode"** — a setting that reduces visual noise, disables animations, and strips the interface back to its bare essentials during active focus sessions. When a user is trying to work, every moving element is a potential distraction. A calm, static interface signals to the brain: *this is a safe space to focus*. It doesn't need to be the default, but it should be easy to find and turn on.
+What struck me reading this was how the whole article exposes a fundamental blind spot in mainstream productivity tools: **they are designed for neurotypical brains and then applied to everyone**. The author makes this painfully clear — standard tools assume that starting a task is easy, that time feels consistent, and that a timer interrupt won't derail your entire flow. For an AuDHD brain, none of those assumptions hold.
 
-### Practice: Responding to a Struggling User
+Three things in particular stood out:
+
+- **Starting is the hardest part.** Not the task itself — getting started. A rigid Pomodoro timer does nothing to help with task initiation, which is where AuDHD users struggle most.
+- **Time blindness is real.** For neurotypical people, 25 minutes feels roughly like 25 minutes. For AuDHD brains, the same stretch can feel like an eternity or vanish in a flash depending on the task. Rigid intervals ignore this completely.
+- **Hyperfocus is both a gift and a vulnerability.** When someone with AuDHD finally reaches deep focus — a rare and precious state — an arbitrary timer interrupt shatters it. The tool designed to help becomes the obstacle.
+
+The core lesson: building for neurodivergent users means questioning the assumptions baked into every design decision, not just adapting existing neurotypical patterns.
+
+### Task 2 — Design Improvement for Focus Bear
+
+**Proposed improvement: Flexible, penalty-free timers**
+
+Based on the blog, the most impactful improvement Focus Bear could make is allowing users to **extend or pause focus sessions without friction or penalty**. Rigid time blocks risk the same failure mode the author described with Pomodoro — they assume a consistent relationship with time that AuDHD brains simply don't have.
+
+A flexible timer would mean:
+- Users can tap "extend" to stay in a focus block if they are in flow, without the session ending abruptly
+- Pausing doesn't count as failure or reset progress
+- The app adapts to the user's rhythm rather than imposing a fixed one
+
+This small change would make Focus Bear feel *supportive* rather than *demanding* — which is exactly the difference between a tool that sticks and one that gets abandoned.
+
+### Task 3 — Practice: Responding to a Struggling User
 
 **Hypothetical user message:**
 > *"I keep opening Focus Bear but I just can't start. I feel stuck and frustrated. Nothing is working."*
 
 **My response:**
 
-> Hey — that feeling is really tough, and I want you to know it makes complete sense. Getting started is genuinely one of the hardest parts, especially when your brain isn't cooperating.
+> Hey — that feeling is really tough, and I want you to know it makes complete sense. Getting started is genuinely one of the hardest parts, especially when your brain isn't cooperating. You're not doing anything wrong.
 >
-> Let's make it tiny. Don't think about the whole task — just open Focus Bear and start a **2-minute session** on anything, even something trivial. That's it. Just two minutes.
+> Let's make it as small as possible. Don't think about the task — just open a **2-minute session** on anything at all. Not to be productive. Just to begin.
 >
-> You don't have to be productive today. You just have to start. 
+> That's it. Two minutes. You've got this. 
 
-*The approach here: validate first, keep it short, give one clear and achievable action. No lists, no overwhelming advice — just a warm human voice and a single small step forward.*
-
+*The approach: validate first without minimising, keep the message short so it doesn't add to overwhelm, and give exactly one small and achievable next step. No lists, no advice overload — just a warm, human voice and a single gentle nudge forward.*

@@ -1,4 +1,4 @@
-# 📖 User Manual for Manikanda Prabhu Bagavathi Krishnan
+# User Manual for Manikanda Prabhu Bagavathi Krishnan
 **Role:** Machine Learning Engineer Intern
 
 ## My Role
